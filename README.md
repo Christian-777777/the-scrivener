@@ -87,15 +87,33 @@
 
 ## 截图
 
-> 将应用截图放入 `screenshots/` 文件夹，推荐以下角度：
->
-> - `cover.png` — 书本封面（关闭状态）
-> - `chronicle.png` — 编年史时间轴（编辑模式 + 时代划分）
-> - `map.png` — 地图编辑器（含地标节点和区域）
-> - `character.png` — 人物集（左侧卡片网格 + 右侧详情面板）
-> - `graph.png` — 人物关系图谱（圆形节点 + SVG 连线）
-> - `library.png` — 图书馆（书架网格 + 阅读面板）
-> - `player.png` — 背景音乐悬浮播放面板
+<p align="center">
+  <img src="screenshots/cover.png" width="400" alt="书本封面">
+</p>
+
+<p align="center">
+  <img src="screenshots/chronicle.png" width="720" alt="编年史">
+</p>
+
+<p align="center">
+  <img src="screenshots/map.png" width="720" alt="世界地图">
+</p>
+
+<p align="center">
+  <img src="screenshots/character.png" width="720" alt="人物集">
+</p>
+
+<p align="center">
+  <img src="screenshots/graph.png" width="720" alt="人物关系图谱">
+</p>
+
+<p align="center">
+  <img src="screenshots/library.png" width="720" alt="图书馆">
+</p>
+
+<p align="center">
+  <img src="screenshots/player.png" width="300" alt="背景音乐">
+</p>
 
 ---
 

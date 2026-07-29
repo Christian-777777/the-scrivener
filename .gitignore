@@ -1,0 +1,16 @@
+node_modules/
+dist/
+dist-electron/
+release/
+*.log
+.DS_Store
+Thumbs.db
+*.vbs
+*.zip
+*.tar.gz
+assets/icon.png
+assets/icon-512.png
+assets/icon.ico
+electron/
+package-lock.json
+public/music/tracks.json

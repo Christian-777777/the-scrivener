@@ -110,8 +110,8 @@
 **需要：** Node.js ≥ 18，npm ≥ 9
 
 ```bash
-git clone https://github.com/你的用户名/世界oc编辑器.git
-cd 世界oc编辑器/world-oc-editor
+git clone https://github.com/Christian-777777/the-scrivener.git
+cd the-scrivener
 npm install
 npm run release
 ```
